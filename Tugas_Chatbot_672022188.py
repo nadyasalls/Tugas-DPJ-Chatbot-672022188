@@ -18,8 +18,6 @@ pairs = [
     
 ]
 
-
-
 # Membuat chatbot menggunakan kelas Chat
 chatbot = Chat(pairs, reflections)
 
